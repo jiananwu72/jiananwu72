@@ -1,7 +1,7 @@
 <h2> Hi, I'm Jianan Wu! </h2>
-<h3> You could Also call me Johnny! </h3>
+<h4> You could call me Johnny! </h4>
+<h3> I am a computer engineering student at Washington University in St. Louis. </h3>
 
-<h1> Hello! </h1>
 <!--
 **jiananwu72/jiananwu72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
